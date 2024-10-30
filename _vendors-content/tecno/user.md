@@ -1,8 +1,8 @@
----
+---bakgrund 
 manufacturer:
     - tecno
 
----
+---access
 
 ## Power Saving Management
 
